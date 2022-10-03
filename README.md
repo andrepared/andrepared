@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**andrepared/andrepared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building websites and microservices. Also, studying for the AWS Solution Architecture Professional Certificate.
+- 🌱 I’m currently learning Express + Mongoose, and AWS.
+- 👯 I’m looking to collaborate on building websites!
+- 🤔 I’m looking for help with Soltion Architecture.
+- 💬 Ask me about the tech scene in Austin!
+- 📫 How to reach me: andresgpared@gmail.com / www.linkedin.com/in/andres-garcia-paredes-910009183
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know how to speak French and Spanish.
+
