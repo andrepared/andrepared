@@ -9,5 +9,5 @@ Hi there 👋
 - 💬 Ask me about the tech scene in Austin!
 - 📫 How to reach me: andresgpared@gmail.com / www.linkedin.com/in/andres-garcia-paredes-910009183
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know how to speak French and Spanish.
+- ⚡ Fun fact: I know how to speak French and Spanish!
 
