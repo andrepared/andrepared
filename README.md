@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working on building websites and microservices. Also, studying for the AWS Solution Architecture Professional Certificate.
+- 🔭 I’m currently working on building microservices.
 - 🌱 I’m currently building side projects.
 - 👯 I’m looking to collaborate on building websites!
 - 🤔 I’m looking for help on interviews.
