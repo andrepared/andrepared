@@ -1,13 +1,1 @@
-Hi there 👋
-
-
-
-- 🔭 I’m currently working on building microservices.
-- 🌱 I’m currently building side projects.
-- 👯 I’m looking to collaborate on building websites!
-- 🤔 I’m looking for help on interviews.
-- 💬 Ask me about the tech scene in Austin!
-- 📫 How to reach me: andresgpared@gmail.com / www.linkedin.com/in/andres-garcia-paredes-910009183  / andresgparedes.co
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know how to speak French and Spanish!
-
+![Snake animation](https://github.com/andrepared/andrepared/blob/output/github-contribution-grid-snake.svg)
